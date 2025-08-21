@@ -1,0 +1,6 @@
+pandas
+yfinance
+transformers
+torch
+scikit-learn
+streamlit
